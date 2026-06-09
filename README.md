@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fading-from-your-arms/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Fading From Your Arms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fading-from-your-arms/) |
+| **Get License** | [Obtain a Music License for Fading From Your Arms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fading-from-your-arms/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2880)
 
 ---
 
