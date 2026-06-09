@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fading From Your Arms
+
+This log tracks the cryptographic history and versioning for the song **Fading From Your Arms** (fading-from-your-arms).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T17:33:24.791474 | `v1` | `8951f84b9450f0919c306c84c7f67e8e499cf0f8cf8a685521fba2112726fd4e` | `3d734658d6adec7b0006c011d0916256b5330a4e904779886840fb2d440d8019` | `2026-06-09_fading-from-your-arms-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
